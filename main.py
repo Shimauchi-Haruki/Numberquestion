@@ -1,10 +1,5 @@
 #  import_________________________
-import random
-answer = 6
-calulationWay = [+,-,*,/,//]
-randomCalculationWay = random.randint(0,3)
-print(randomCalculationWay)
-result = 
+result = 25
 
 #  def____________________________
 
